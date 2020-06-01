@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/samolet-test/static/css/main.eb794fda.chunk.css",
-    "main.js": "/samolet-test/static/js/main.f95edcda.chunk.js",
-    "main.js.map": "/samolet-test/static/js/main.f95edcda.chunk.js.map",
+    "main.js": "/samolet-test/static/js/main.1c681bf2.chunk.js",
+    "main.js.map": "/samolet-test/static/js/main.1c681bf2.chunk.js.map",
     "runtime-main.js": "/samolet-test/static/js/runtime-main.ff857f5b.js",
     "runtime-main.js.map": "/samolet-test/static/js/runtime-main.ff857f5b.js.map",
     "static/css/2.81187608.chunk.css": "/samolet-test/static/css/2.81187608.chunk.css",
     "static/js/2.3765457f.chunk.js": "/samolet-test/static/js/2.3765457f.chunk.js",
     "static/js/2.3765457f.chunk.js.map": "/samolet-test/static/js/2.3765457f.chunk.js.map",
     "index.html": "/samolet-test/index.html",
-    "precache-manifest.84fb9f5601b281563866f50bdc62a72c.js": "/samolet-test/precache-manifest.84fb9f5601b281563866f50bdc62a72c.js",
+    "precache-manifest.6b171bf812014bb9cca1c343a4cfaa3d.js": "/samolet-test/precache-manifest.6b171bf812014bb9cca1c343a4cfaa3d.js",
     "service-worker.js": "/samolet-test/service-worker.js",
     "static/css/2.81187608.chunk.css.map": "/samolet-test/static/css/2.81187608.chunk.css.map",
     "static/css/main.eb794fda.chunk.css.map": "/samolet-test/static/css/main.eb794fda.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.81187608.chunk.css",
     "static/js/2.3765457f.chunk.js",
     "static/css/main.eb794fda.chunk.css",
-    "static/js/main.f95edcda.chunk.js"
+    "static/js/main.1c681bf2.chunk.js"
   ]
 }
