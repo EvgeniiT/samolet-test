@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/samolet-test/precache-manifest.1f5e5933cee2808e1e6fa76673cacd17.js"
+  "/samolet-test/precache-manifest.84fb9f5601b281563866f50bdc62a72c.js"
 );
 
 self.addEventListener('message', (event) => {
