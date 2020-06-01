@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/samolet-test/static/css/main.eb794fda.chunk.css",
+    "main.js": "/samolet-test/static/js/main.b0555315.chunk.js",
+    "main.js.map": "/samolet-test/static/js/main.b0555315.chunk.js.map",
+    "runtime-main.js": "/samolet-test/static/js/runtime-main.ff857f5b.js",
+    "runtime-main.js.map": "/samolet-test/static/js/runtime-main.ff857f5b.js.map",
+    "static/css/2.81187608.chunk.css": "/samolet-test/static/css/2.81187608.chunk.css",
+    "static/js/2.90aeb5aa.chunk.js": "/samolet-test/static/js/2.90aeb5aa.chunk.js",
+    "static/js/2.90aeb5aa.chunk.js.map": "/samolet-test/static/js/2.90aeb5aa.chunk.js.map",
+    "index.html": "/samolet-test/index.html",
+    "precache-manifest.1f68007dd007a07ee171fca46046f0ad.js": "/samolet-test/precache-manifest.1f68007dd007a07ee171fca46046f0ad.js",
+    "service-worker.js": "/samolet-test/service-worker.js",
+    "static/css/2.81187608.chunk.css.map": "/samolet-test/static/css/2.81187608.chunk.css.map",
+    "static/css/main.eb794fda.chunk.css.map": "/samolet-test/static/css/main.eb794fda.chunk.css.map",
+    "static/js/2.90aeb5aa.chunk.js.LICENSE.txt": "/samolet-test/static/js/2.90aeb5aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff857f5b.js",
+    "static/css/2.81187608.chunk.css",
+    "static/js/2.90aeb5aa.chunk.js",
+    "static/css/main.eb794fda.chunk.css",
+    "static/js/main.b0555315.chunk.js"
+  ]
+}
